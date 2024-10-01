@@ -54,6 +54,6 @@ During the development of this project, several challenges were encountered:
 4. Video Recording of a walkthrough of the project.
 
 ## Links
-- [Hugging Face Space](HUGGING_FACE_SPACE_LINK)
+- [Hugging Face Space](https://huggingface.co/spaces/ShahadFawaz99/LandmarkRecognition)
 - [Video Walkthrough](VIDEO_WALKTHROUGH_LINK)
-- [Presentation Slides](PRESENTATION_LINK)
+- [Presentation Slides](https://www.canva.com/design/DAGSUhaYrtg/sMyej8KMiKKSudH2ByUF3Q/view?utm_content=DAGSUhaYrtg&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
